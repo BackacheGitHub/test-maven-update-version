@@ -25,6 +25,6 @@
     </build>
 
     <scm>
-        <developerConnection>scm:git:git://github.com/BackacheGitHub/test-maven-update-version</developerConnection>
+        <developerConnection>scm:git:git@github.com:BackacheGitHub/test-maven-update-version.git</developerConnection>
     </scm>
 </project>
